@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Amad!]
 
 - ⚡ I'm a Developer and learning about programming .
-- 🔭 I'm currently working as a technician Hardware installments of machines and troubleshooting.
+- 🔭 I'm currently working as a technician Hardware installment of machines and troubleshooting.
 - 🌱 I’m currently learning .Net c#
 - 💬 Ask me about Community Building and Art
 - 📫 How to reach me: smart_kazmi@hotmail.com
